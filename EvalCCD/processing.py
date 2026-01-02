@@ -1,14 +1,12 @@
-"""
-Processing / math utilities for CCD measurement notebook.
-"""
-from __future__ import annotations
+# ==============================
+# Functions for the Processing / Utils.
+# ===============================
 
 from typing import Callable, Optional, Sequence, Tuple
 
 import numpy as np
 from scipy.optimize import curve_fit
 from tqdm import tqdm
-
 
 #########################
 #       Functions       #
