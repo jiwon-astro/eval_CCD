@@ -1,7 +1,6 @@
-"""
-Plotting helpers for CCD measurement notebook.
-"""
-from __future__ import annotations
+# ==============================
+Plotting helpers
+# ===============================
 
 import numpy as np
 import matplotlib.pyplot as plt
