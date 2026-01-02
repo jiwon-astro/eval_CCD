@@ -1,7 +1,6 @@
-"""
-I/O helpers for CCD measurement notebook.
-"""
-from __future__ import annotations
+#=======================================
+# I/O helpers
+#=======================================
 
 from pathlib import Path
 from typing import List, Sequence, Tuple, Union, Optional
