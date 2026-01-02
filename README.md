@@ -1,2 +1,2 @@
-# eval_CCD
+# EvalCCD
 Testing shutterless-CCD for Spectroscopic instruments 
