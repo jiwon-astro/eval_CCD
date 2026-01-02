@@ -1,5 +1,5 @@
 # ==============================
-Plotting helpers
+# Plotting helpers
 # ===============================
 
 import numpy as np
